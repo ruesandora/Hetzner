@@ -36,7 +36,7 @@
 
 <h1 align="center"> Nasıl kullanıyorum? </h1>
 
-> Hetzner'in 20 dolar bakiyesini almak isteyenlere [link](https://hetzner.cloud/?ref=gIFAhUnYYjD3)
+> Hetzner'in 20 dolar bakiyesini almak isteyenlere [link](https://hetzner.cloud/?ref=PAWOkFS595H5)
 
 ```
 > Öncelikle, hetznerin  bir çok subdomain'i var haliyle bir çok servisi var. VDS, VPS, cloud servis, storage vs vs..
